@@ -6,9 +6,9 @@ animated Lottie splash screen, and a fully responsive layout.
 
 ## Screens
 
-| Create Profile | Home / Dashboard | Add Task |
+| Login | Home / Dashboard | Add Task |
 |---|---|---|
-| ![Create Profile](screenshots/create_profile_screen.png) | ![Home](screenshots/home_screen.png) | ![Add Task](screenshots/add_task_screen.png) |
+| ![Create Profile](screenshots/login_screen.png) | ![Home](screenshots/home_screen.png) | ![Add Task](screenshots/add_task_screen.png) |
 
 - **Create Profile** — first-run screen to enter your name before landing on the dashboard.
 - **Home / Dashboard** — greeting, a Tasks/Done/Pending summary card, and today's task list with colored status badges.
