@@ -8,7 +8,7 @@ class TodoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: HomeScreen(userName: 'Mora',)
+      home: LoginScreen()
     );
   }
 }
